@@ -1,0 +1,3 @@
+<plugins>
+    <plugin id="com.nodes.plugin" url="https://github.com/Tgo1014/Nodes-Template-Plugin/raw/master/Nodes-Arch-Template-Plugin.jar" version="1.0.0"/>
+</plugins>
